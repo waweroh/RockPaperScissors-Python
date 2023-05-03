@@ -47,10 +47,5 @@ def play_best_of(n):
         print(f"The bot has won best of {n}. Izaa buda!")
 
 
-
-        
-
-
-
 if __name__ == "__main__":
     print(play_best_of(3))
